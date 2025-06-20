@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ћгЏн… «бЌн«… «бЁб”Ўндн… «бќн—н…</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f2f2f2;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+        }
+        header {
+            background-color: #d32f2f;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        header img {
+            max-width: 120px;
+            display: block;
+            margin: 0 auto 10px auto;
+        }
+        section {
+            padding: 20px;
+            background-color: white;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            background-color: #1976d2;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+        h2, h3 {
+            color: #d32f2f;
+        }
+        .goal {
+            margin-bottom: 20px;
+        }
+        .goal img {
+            max-width: 100%;
+            border-radius: 6px;
+            margin-top: 10px;
+        }
+        .social-icons a {
+            margin: 0 10px;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="logo.png" alt="‘Џ«— «бћгЏн…">
+    <h1>ћгЏн… «бЌн«… «бЁб”Ўндн… «бќн—н…</h1>
+</header>
+
+<section>
+    <h2>гд дЌд - —Ќб… «бЏЎ«Ѕ ж«б≈д”«дн…</h2>
+    <p>ћгЏн… "«бЌн«… «бЁб”Ўндн… «бќн—н…"  ёжг »цгуѕш нѕ «бЏжд ббгЌ «ћнд° жд‘— Ћё«Ё… «б≈”Џ«Ё«  «б√жбн….</p>
+
+    <h3>«бд‘√…</h3>
+    <p> √””  «бћгЏн… Ён Џ«г 2023 Ён гѕнд… —«г «ббе ж«б»н—…° жЌ’б  Џбм «б —ќн’ «б—”гн Ён 28 гд  ‘—нд «бЋ«дн.</p>
+
+    <h3>‘—я«ƒд«</h3>
+    <p>»бѕн… «б»н—…</p>
+
+    <h3>«б√еѕ«Ё</h3>
+
+    <div class="goal">
+        <p>«бг‘«—я… Ён «бгд«”»«  «бѕндн… «б≈”б«гн… ж«бг”нЌн…° ж хёѕг Ў—жѕр« џ–«∆н… жгб«»” ббгЌ «ћнд.</p>
+        <img src="goal1.jpg" alt=" ж“нЏ «бЎ—жѕ «бџ–«∆н…">
+    </div>
+
+    <div class="goal">
+        <p> ёѕнг ќѕг«  «б≈”Џ«Ё«  «б√жбн… Ён Ќ«б«  «бЎж«—∆ ж дўнг ѕж—«   ѕ—н»н….</p>
+        <img src="goal2.jpg" alt=" ѕ—н» Џбм «б≈”Џ«Ё«  «б√жбн…">
+    </div>
+
+    <div class="goal">
+        <p>—Џ«н… «бг—÷м ж«б√н «г гд ќб«б “н«—«  бг” ‘Ём —«г «ббе Ён √жб нжг гд Џнѕн «бЁЎ— ж«б√÷Ќм.</p>
+        <img src="goal3.jpg" alt="“н«—… «бг—÷м">
+    </div>
+
+    <div class="goal">
+        <p>г”«Џѕ… я»«— «б”д Џбм Ќ«ћ“ ёбдѕн« жЁн «бж’жб ≈бм «бг”ћѕ «б√ё’м ќб«б ‘е— —г÷«д.</p>
+        <img src="goal4.jpg" alt="г”«Џѕ… я»«— «б”д">
+    </div>
+
+    <h3>Ё—нё «бЏгб</h3>
+    <p>н÷г Ё—нё «бћгЏн… 150 г ЎжЏр« нхёѕгжд ќѕг« ег »яб ≈ќб«’ ж Ё«дт.</p>
+
+    <h3>«бќ« г…</h3>
+    <p> хёѕг ћгЏн… "«бЌн«… «бЁб”Ўндн… «бќн—н…" дгж–ћр« гх‘—шЁр« ббЏгб «бќн—н ж«б≈д”«дн° ж хƒяшѕ Џбм √егн…  ÷«Ё— «бћежѕ б»д«Ѕ гћ гЏт нхдЏг Ёне «бћгнЏ »«б√г«д ж«б—ќ«Ѕ.</p>
+</section>
+
+<footer>
+    <p><strong>«бЏдж«д:</strong> гЌ«Ёў… —«г «ббе ж«б»н—… жѕн— ћ—н— жд«»б”</p>
+    <p><strong>—ёг «бе« Ё:</strong> +970 595 214 968</p>
+    <p><strong>«б»—нѕ «б≈бя —ждн:</strong> Alhaiasociety@gmail.com</p>
+    <div class="social-icons">
+        <p><strong> «»Џжд« Џбм:</strong></p>
+        <a href="https://www.facebook.com/p/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-100063353221363/?locale=ar_AR&_rdr" target="_blank">Ён”»жя</a>
+        <a href="https://www.instagram.com/palestinian_life_society__pls?igsh=MWJhYXdkeG9nbjhjag==" target="_blank">≈д” џ—«г</a>
+        <a href="https://www.tiktok.com/@alhayasociety" target="_blank"> ня  жя</a>
+    </div>
+</footer>
+
+</body>
+</html>
